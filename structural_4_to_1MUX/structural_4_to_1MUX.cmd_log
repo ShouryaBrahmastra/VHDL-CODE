@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/xili/structural_4_to_1MUX/structural_4_to_1MUX.xst" -ofn "E:/xili/structural_4_to_1MUX/structural_4_to_1MUX.syr" 

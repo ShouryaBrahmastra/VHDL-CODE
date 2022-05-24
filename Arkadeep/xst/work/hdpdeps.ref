@@ -1,0 +1,7 @@
+V3 6
+FL E:/xili/Arkadeep/struct.vhd 2022/03/23.15:36:35 P.20131013
+EN work/AND_OR_STRUCTURAL 1648030002 FL E:/xili/Arkadeep/struct.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/AND_OR_STRUCTURAL/Structural 1648030003 \
+      FL E:/xili/Arkadeep/struct.vhd EN work/AND_OR_STRUCTURAL 1648030002 CP AND_g \
+      CP OR_g CP NOT_g

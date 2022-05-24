@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/xili/FULL_ADDER/FULL_ADDER.xst" -ofn "E:/xili/FULL_ADDER/FULL_ADDER.syr" 

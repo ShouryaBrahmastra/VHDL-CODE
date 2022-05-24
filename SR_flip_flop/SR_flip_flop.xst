@@ -1,0 +1,5 @@
+set -tmpdir "E:/xili/SR_flip_flop/xst/projnav.tmp"
+set -xsthdpdir "E:/xili/SR_flip_flop/xst"
+elaborate
+-ifn SR_flip_flop.prj
+-ifmt mixed

@@ -1,0 +1,5 @@
+set -tmpdir "E:/xili/FOUR_BIT_MUX/xst/projnav.tmp"
+set -xsthdpdir "E:/xili/FOUR_BIT_MUX/xst"
+elaborate
+-ifn FOUR_BIT_MUX.prj
+-ifmt mixed

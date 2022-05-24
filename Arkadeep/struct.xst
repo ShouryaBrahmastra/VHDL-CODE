@@ -1,0 +1,5 @@
+set -tmpdir "E:/xili/Arkadeep/xst/projnav.tmp"
+set -xsthdpdir "E:/xili/Arkadeep/xst"
+elaborate
+-ifn struct.prj
+-ifmt mixed

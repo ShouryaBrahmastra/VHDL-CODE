@@ -1,0 +1,6 @@
+V3 3
+FL E:/xili/D_flip_flop/D_flip_flop.vhd 2022/04/27.12:09:47 P.20131013
+EN work/D_flip_flop 1651041597 FL E:/xili/D_flip_flop/D_flip_flop.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/D_flip_flop/Behavioral 1651041598 \
+      FL E:/xili/D_flip_flop/D_flip_flop.vhd EN work/D_flip_flop 1651041597

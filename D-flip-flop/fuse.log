@@ -1,0 +1,9 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o E:/xili/D-flip-flop/D_isim_beh.exe -prj E:/xili/D-flip-flop/D_beh.prj work.D 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/xili/D-flip-flop/D-flip-flop.vhd" into library work
+ERROR:HDLCompiler:806 - "E:/xili/D-flip-flop/D-flip-flop.vhd" Line 32: Syntax error near "-".
+ERROR:HDLCompiler:806 - "E:/xili/D-flip-flop/D-flip-flop.vhd" Line 38: Syntax error near "-".
+VHDL file E:/xili/D-flip-flop/D-flip-flop.vhd ignored due to errors

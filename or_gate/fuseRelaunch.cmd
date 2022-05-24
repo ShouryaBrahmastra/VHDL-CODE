@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/xili/or_gate/or_gate_isim_beh.exe" -prj "E:/xili/or_gate/or_gate_beh.prj" "work.or_gate" 

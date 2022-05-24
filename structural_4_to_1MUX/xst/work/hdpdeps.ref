@@ -1,0 +1,8 @@
+V3 4
+FL E:/xili/structural_4_to_1MUX/structural_4_to_1MUX.vhd 2022/04/06.16:02:19 P.20131013
+EN work/structural_4_to_1MUX 1649241249 \
+      FL E:/xili/structural_4_to_1MUX/structural_4_to_1MUX.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/structural_4_to_1MUX/STRUCTURAL 1649241250 \
+      FL E:/xili/structural_4_to_1MUX/structural_4_to_1MUX.vhd \
+      EN work/structural_4_to_1MUX 1649241249 CP mux_block

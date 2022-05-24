@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/xili/BINARY_TO_GRAY/BINARY_TO_GRAY.xst" -ofn "E:/xili/BINARY_TO_GRAY/BINARY_TO_GRAY.syr" 

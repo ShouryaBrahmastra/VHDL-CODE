@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/xili/UP_DOWN_COUNTER/UPDOWNCOUNTER.xst" -ofn "E:/xili/UP_DOWN_COUNTER/UPDOWNCOUNTER.syr" 

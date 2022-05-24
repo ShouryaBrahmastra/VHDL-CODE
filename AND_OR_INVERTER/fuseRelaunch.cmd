@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/xili/AND_OR_INVERTER/AND_OR_INVERTER_isim_beh.exe" -prj "E:/xili/AND_OR_INVERTER/AND_OR_INVERTER_beh.prj" "work.AND_OR_INVERTER" 

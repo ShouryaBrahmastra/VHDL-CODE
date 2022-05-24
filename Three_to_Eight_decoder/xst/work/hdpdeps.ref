@@ -1,0 +1,8 @@
+V3 3
+FL E:/xili/Three_to_Eight_decoder/Three_to_Eight_decoder.vhd 2022/04/06.15:47:33 P.20131013
+EN work/Three_to_Eight_decoder 1649240265 \
+      FL E:/xili/Three_to_Eight_decoder/Three_to_Eight_decoder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Three_to_Eight_decoder/Behavioral 1649240266 \
+      FL E:/xili/Three_to_Eight_decoder/Three_to_Eight_decoder.vhd \
+      EN work/Three_to_Eight_decoder 1649240265

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/xili/FULL_ADDER/FULL_ADDER_isim_beh.exe" -prj "E:/xili/FULL_ADDER/FULL_ADDER_beh.prj" "work.FULL_ADDER" 

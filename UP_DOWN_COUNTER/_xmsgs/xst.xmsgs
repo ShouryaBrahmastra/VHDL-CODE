@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="2211" delta="new" >&quot;<arg fmt="%s" index="1">E:/xili/UP_DOWN_COUNTER/UP_DOWN_COUNTER.vhd</arg>&quot; line <arg fmt="%d" index="2">65</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">JK_FF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2211" delta="new" >&quot;<arg fmt="%s" index="1">E:/xili/UP_DOWN_COUNTER/UP_DOWN_COUNTER.vhd</arg>&quot; line <arg fmt="%d" index="2">66</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">AND_G</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2211" delta="new" >&quot;<arg fmt="%s" index="1">E:/xili/UP_DOWN_COUNTER/UP_DOWN_COUNTER.vhd</arg>&quot; line <arg fmt="%d" index="2">67</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">NOT_G</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2211" delta="new" >&quot;<arg fmt="%s" index="1">E:/xili/UP_DOWN_COUNTER/UP_DOWN_COUNTER.vhd</arg>&quot; line <arg fmt="%d" index="2">68</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">AND_G</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2211" delta="new" >&quot;<arg fmt="%s" index="1">E:/xili/UP_DOWN_COUNTER/UP_DOWN_COUNTER.vhd</arg>&quot; line <arg fmt="%d" index="2">69</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">OR_G</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2211" delta="new" >&quot;<arg fmt="%s" index="1">E:/xili/UP_DOWN_COUNTER/UP_DOWN_COUNTER.vhd</arg>&quot; line <arg fmt="%d" index="2">70</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">JK_FF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2211" delta="new" >&quot;<arg fmt="%s" index="1">E:/xili/UP_DOWN_COUNTER/UP_DOWN_COUNTER.vhd</arg>&quot; line <arg fmt="%d" index="2">71</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">AND_G</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2211" delta="new" >&quot;<arg fmt="%s" index="1">E:/xili/UP_DOWN_COUNTER/UP_DOWN_COUNTER.vhd</arg>&quot; line <arg fmt="%d" index="2">72</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">AND_G</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2211" delta="new" >&quot;<arg fmt="%s" index="1">E:/xili/UP_DOWN_COUNTER/UP_DOWN_COUNTER.vhd</arg>&quot; line <arg fmt="%d" index="2">73</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">OR_G</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2211" delta="new" >&quot;<arg fmt="%s" index="1">E:/xili/UP_DOWN_COUNTER/UP_DOWN_COUNTER.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">JK_FF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">QCBAR</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">JK_FF</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">QC</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">JK_FF</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+</messages>
+

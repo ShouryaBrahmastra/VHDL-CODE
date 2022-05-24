@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "E:/xili/AND_OR_STRUCTURAL/AND_OR_STRUCTURAL.xst" -ofn "E:/xili/AND_OR_STRUCTURAL/AND_OR_STRUCTURAL.syr" 
+xst -intstyle ise -ifn "E:/xili/AND_OR_STRUCTURAL/AND_OR_STRUCTURAL.xst" -ofn "E:/xili/AND_OR_STRUCTURAL/AND_OR_STRUCTURAL.syr" 

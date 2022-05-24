@@ -1,0 +1,8 @@
+xst -intstyle ise -ifn "E:/xili/AND_OR_INVERTER/AND_OR_INVERTER.xst" -ofn "E:/xili/AND_OR_INVERTER/AND_OR_INVERTER.syr" 
+xst -intstyle ise -ifn "E:/xili/AND_OR_INVERTER/AND_OR_INVERTER.xst" -ofn "E:/xili/AND_OR_INVERTER/AND_OR_INVERTER.syr" 
+xst -intstyle ise -ifn "E:/xili/AND_OR_INVERTER/AND_OR_INVERTER.xst" -ofn "E:/xili/AND_OR_INVERTER/AND_OR_INVERTER.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 AND_OR_INVERTER.ngc AND_OR_INVERTER.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o AND_OR_INVERTER_map.ncd AND_OR_INVERTER.ngd AND_OR_INVERTER.pcf 
+par -w -intstyle ise -ol high -t 1 AND_OR_INVERTER_map.ncd AND_OR_INVERTER.ncd AND_OR_INVERTER.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml AND_OR_INVERTER.twx AND_OR_INVERTER.ncd -o AND_OR_INVERTER.twr AND_OR_INVERTER.pcf 
+xst -intstyle ise -ifn "E:/xili/AND_OR_INVERTER/AND_OR_INVERTER.xst" -ofn "E:/xili/AND_OR_INVERTER/AND_OR_INVERTER.syr" 

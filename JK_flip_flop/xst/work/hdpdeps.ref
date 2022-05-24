@@ -1,0 +1,6 @@
+V3 3
+FL E:/xili/JK_flip_flop/JK_flip_flop.vhd 2022/04/27.12:34:21 P.20131013
+EN work/JK_flip_flop 1651043077 FL E:/xili/JK_flip_flop/JK_flip_flop.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/JK_flip_flop/Behavioral 1651043078 \
+      FL E:/xili/JK_flip_flop/JK_flip_flop.vhd EN work/JK_flip_flop 1651043077

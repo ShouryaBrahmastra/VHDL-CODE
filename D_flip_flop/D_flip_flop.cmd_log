@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/xili/D_flip_flop/D_flip_flop.xst" -ofn "E:/xili/D_flip_flop/D_flip_flop.syr" 

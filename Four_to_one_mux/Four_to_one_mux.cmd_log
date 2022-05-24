@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/xili/Four_to_one_mux/Four_to_one_mux.xst" -ofn "E:/xili/Four_to_one_mux/Four_to_one_mux.syr" 

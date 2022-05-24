@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/xili/Arkadeep/AND_OR_STRUCTURAL.xst" -ofn "E:/xili/Arkadeep/AND_OR_STRUCTURAL.syr" 

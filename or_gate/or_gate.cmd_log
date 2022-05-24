@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/xili/or_gate/or_gate.xst" -ofn "E:/xili/or_gate/or_gate.syr" 

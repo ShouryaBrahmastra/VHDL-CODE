@@ -1,0 +1,5 @@
+set -tmpdir "E:/xili/UP_DOWN_COUNTER/xst/projnav.tmp"
+set -xsthdpdir "E:/xili/UP_DOWN_COUNTER/xst"
+elaborate
+-ifn UPDOWNCOUNTER.prj
+-ifmt mixed

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/xili/FOUR_BIT_MUX/FOUR_BIT_MUX_isim_beh.exe" -prj "E:/xili/FOUR_BIT_MUX/FOUR_BIT_MUX_beh.prj" "work.FOUR_BIT_MUX" 

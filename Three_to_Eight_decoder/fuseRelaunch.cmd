@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/xili/Three_to_Eight_decoder/Three_to_Eight_decoder_isim_beh.exe" -prj "E:/xili/Three_to_Eight_decoder/Three_to_Eight_decoder_beh.prj" "work.Three_to_Eight_decoder" 

@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "E:/xili/Deb_Binary_to_Gray/Deb_Binary_to_Gray.xst" -ofn "E:/xili/Deb_Binary_to_Gray/Deb_Binary_to_Gray.syr" 
+xst -intstyle ise -ifn "E:/xili/Deb_Binary_to_Gray/Deb_Binary_to_Gray.xst" -ofn "E:/xili/Deb_Binary_to_Gray/Deb_Binary_to_Gray.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 Deb_Binary_to_Gray.ngc Deb_Binary_to_Gray.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o Deb_Binary_to_Gray_map.ncd Deb_Binary_to_Gray.ngd Deb_Binary_to_Gray.pcf 
+par -w -intstyle ise -ol high -t 1 Deb_Binary_to_Gray_map.ncd Deb_Binary_to_Gray.ncd Deb_Binary_to_Gray.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Deb_Binary_to_Gray.twx Deb_Binary_to_Gray.ncd -o Deb_Binary_to_Gray.twr Deb_Binary_to_Gray.pcf 

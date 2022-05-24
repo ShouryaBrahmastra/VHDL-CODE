@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="2211" delta="new" >&quot;<arg fmt="%s" index="1">E:/xili/structural_4_to_1MUX/structural_4_to_1MUX.vhd</arg>&quot; line <arg fmt="%d" index="2">53</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">mux_block</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2211" delta="new" >&quot;<arg fmt="%s" index="1">E:/xili/structural_4_to_1MUX/structural_4_to_1MUX.vhd</arg>&quot; line <arg fmt="%d" index="2">54</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">mux_block</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2211" delta="new" >&quot;<arg fmt="%s" index="1">E:/xili/structural_4_to_1MUX/structural_4_to_1MUX.vhd</arg>&quot; line <arg fmt="%d" index="2">55</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">mux_block</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">Y</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">mux_block</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+</messages>
+

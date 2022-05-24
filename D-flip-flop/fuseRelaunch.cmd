@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/xili/D-flip-flop/D_isim_beh.exe" -prj "E:/xili/D-flip-flop/D_beh.prj" "work.D" 
